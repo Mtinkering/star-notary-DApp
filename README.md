@@ -1,17 +1,19 @@
-# DESCRIPTION
+# Description
 Simple DApp that user can claim a star
 
 
-# STACK
-Truffle
-Metamask
-Web3
-Solidity
+# Stack
+- Truffle
+- Metamask
+- Web3
+- Solidity
 
 # TEMPLATE
-Truffle Boxes Webpack
+Truffle Boxes Webpack https://www.trufflesuite.com/boxes/webpack
 
 # HOW TO RUN
-Truffle develop migrate --reset
-
+```
+truffle develop migrate --reset
 cd app && npm run dev
+```
+
